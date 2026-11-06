@@ -1,6 +1,6 @@
 # Financial Forecasting Tool
 
-An Excel-based financial forecasting tool that projects 5-year income statements for publicly traded companies across three scenario types — Base, Strong, and Weak — using historical financial data and dynamic assumptions.
+An Excel-based financial forecasting tool that projects 3-year income statements for publicly traded companies across three scenario types — Base, Strong, and Weak — using historical financial data and dynamic assumptions.
 
 ---
 
